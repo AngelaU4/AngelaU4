@@ -43,7 +43,7 @@
 
 ---
 
-### Lenguajes y Herramientas 🛠 
+### Languages and Tools 🛠 
 **Programming Languages:**
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
@@ -118,4 +118,4 @@
 
 <br/>
 
-Última actualización: Enero 2026
+Last updated: January 2026
