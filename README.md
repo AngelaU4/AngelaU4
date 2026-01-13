@@ -1,5 +1,6 @@
 # Hi there, I'm Angela <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
+
 <img align="right" alt="GIF" height="160px" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ## I'm a Computer Science and Engineering Student  
@@ -15,7 +16,8 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/sjraa5516f7rqbu861qlbe1rm?si=nq5SRg-MSz-6WDRgLXTyyw&nd=1&dlsi=5d304c823c7e4e14)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=sjraa5516f7rqbu861qlbe1rm&cover_image=true&theme=default&show_offline=false&background_color=000000)](https://open.spotify.com/user/sjraa5516f7rqbu861qlbe1rm)
+
 ---
 
 
