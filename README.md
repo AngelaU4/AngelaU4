@@ -110,8 +110,6 @@
 
 ✅ Enterprise Cybersecurity Challenges (2025)  
 ✅ Capsule: Prevent Identity Theft (2025)  
-✅ Financial Structure for Entrepreneurs (2024)  
-✅ Sustainability and Sustainable Entrepreneurship (2022)
 
 > 📌 *All certifications were completed on the **EANX platform** as part of my academic training at **EAN University**.*
 
@@ -119,7 +117,5 @@
 ---
 
 <br/>
-
----
 
 Última actualización: Enero 2026
